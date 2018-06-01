@@ -1,6 +1,6 @@
 class text{
 
-public static void man(string args[]){
+public static void main(string args[]){
 
 system.out.printl("hello world")
 
